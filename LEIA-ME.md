@@ -7,4 +7,3 @@ Já no saque, existia duas regras:
 O extrato consiste em uma cadeia de caracteres que será aumentada a cada operação de saque e depósito.
 
 Esse é o meu primeiro pequeno projeto em Python, espero que gostem!
-Ass: Matheus Augusto Nunes Dyszy 
